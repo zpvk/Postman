@@ -1,3 +1,3 @@
-# MAD-Chat-App
+#MAD-Chat-App:memo::iphone:
 
-Ptototype Okay
+:star:Ptototype Okay
