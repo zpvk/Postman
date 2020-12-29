@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811536955213",
+    "project_id": "boring-chat-96e1f",
+    "storage_bucket": "boring-chat-96e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811536955213:android:88b84bf8c584779f6d6904",
+        "android_client_info": {
+          "package_name": "com.example.chating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811536955213-kdmv342ipr60kn5p3shnrqgqtuu4l9oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0IE8CwjwyvJQfZmejuqZltiDROPdgTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811536955213-kdmv342ipr60kn5p3shnrqgqtuu4l9oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
