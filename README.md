@@ -12,7 +12,7 @@ https://flutter.dev/docs
 ## Technologies used
 * Flutter
 * Firebase
-* Cloud Firebase 
+* Cloud
 
 Flutter Firebase 
 ```
