@@ -1,0 +1,25 @@
+# This is a generated file; do not edit or check into version control.
+agora_rtc_engine=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\agora_rtc_engine-1.0.5\\
+cloud_firestore=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.14.0+2\\
+cloud_firestore_web=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore_web-0.2.0+1\\
+firebase_auth=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.18.0+1\\
+firebase_auth_web=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth_web-0.3.0+1\\
+firebase_core=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.5.0\\
+firebase_core_web=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.2.0\\
+firebase_messaging=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_messaging-6.0.13\\
+firebase_storage=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage-4.0.0\\
+flutter_local_notifications=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_local_notifications-1.4.4+4\\
+flutter_plugin_android_lifecycle=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.8\\
+fluttertoast=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-7.0.2\\
+google_sign_in=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in-4.5.3\\
+google_sign_in_web=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in_web-0.9.1+1\\
+image_picker=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.6.7+7\\
+path_provider=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-1.6.14\\
+path_provider_linux=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-0.0.1+2\\
+path_provider_macos=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-0.0.4+3\\
+permission_handler=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\permission_handler-4.4.0+hotfix.4\\
+shared_preferences=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.10\\
+shared_preferences_linux=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_linux-0.0.2+2\\
+shared_preferences_macos=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_macos-0.0.1+10\\
+shared_preferences_web=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_web-0.1.2+7\\
+sqflite=C:\\App\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\sqflite-1.3.1+1\\
