@@ -1,4 +1,4 @@
-# Postmen
+# Postman
 
 * Postman is a Online Chat application developed using Flutter
 
