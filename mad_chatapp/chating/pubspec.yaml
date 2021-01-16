@@ -1,0 +1,46 @@
+name: flutter_chat_demo
+description: This is the demo for chat app by Flutter
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3 #0.1.2
+  firebase_core : ^0.5.0
+  firebase_auth: ^0.18.0+1  #0.14.0+5
+  google_sign_in: ^4.5.3 #4.0.7
+  cloud_firestore:  ^0.14.0+2 #^0.12.9+5
+  fluttertoast: ^7.0.2 #3.1.3
+  image_picker: ^0.6.7+7 #0.6.1+8
+  shared_preferences: ^0.5.10 #0.5.3+4
+  firebase_storage: ^4.0.0 #3.0.6
+  cached_network_image: ^2.3.1 #2.0.0-rc.1
+  intl: ^0.16.1 #0.15.7
+  firebase_messaging: 6.0.13 #6.0.13
+  flutter_local_notifications: 1.4.4+4 #1.4.0
+  photo_view: ^0.10.2 #0.5.0
+  google_fonts: ^1.1.1
+  permission_handler: '^4.4.0+hotfix.2'
+  agora_rtc_engine: 1.0.5
+  flutter_emoji: ">= 2.0.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - images/Bear/b1.gif
+     - images/Bear/b2.gif
+     - images/Bear/b3.gif
+     - images/Bear/b4.gif
+     - images/Bear/b5.gif
+     - images/Bear/b6.gif
+     - images/Bear/b7.gif
+     - images/postman.png
+     - images/lg2.png
+     - images/dpl.png
+     - images/gg.png
+     - images/background.png
