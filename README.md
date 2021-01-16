@@ -30,10 +30,6 @@ https://flutter.dev/docs/development/data-and-backend/firebase
 * intl
 * chached network image
 
-for Push Notifications
-```
-https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675
-```
 
 
 ## Contributing
