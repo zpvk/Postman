@@ -9,24 +9,24 @@ https://flutter.dev/docs
 ```
 
 ## Technologies used
-Flutter
-Firebase
-Cloud Firebase 
+* Flutter
+* Firebase
+* Cloud Firebase 
 
 ```flutter firebase 
 https://flutter.dev/docs/development/data-and-backend/firebase
 ```
 
 ## Pluggins need to install
-Firebase auth
-Google sign in
-Firebase storage
-Cloud Firestore
-Fluttertoast
-Image picker
-shared preferences
-intl
-chached network image
+* Firebase auth
+* Google sign in
+* Firebase storage
+* Cloud Firestore
+* Fluttertoast
+* Image picker
+* shared preferences
+* intl
+* chached network image
 
 ```for Push Notifications
 https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675
