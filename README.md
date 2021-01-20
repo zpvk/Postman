@@ -18,20 +18,6 @@ Flutter Firebase
 ```
 https://flutter.dev/docs/development/data-and-backend/firebase
 ```
-
-## Pluggins need to install
-* Firebase auth
-* Google sign in
-* Firebase storage
-* Cloud Firestore
-* Fluttertoast
-* Image picker
-* shared preferences
-* intl
-* chached network image
-
-
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
