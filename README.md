@@ -2,7 +2,10 @@
 
 * Postman is a Online Chat application developed using Flutter
 
+* Developed specially for organizaions.
+
 * Supports login, log out, chating, file sharing, image sharing, update user profile. 
+
 
 Refer to following links to get more knowledge on flutter chat application developmnet
 ```
@@ -12,7 +15,7 @@ https://flutter.dev/docs
 ## Technologies used
 * Flutter
 * Firebase
-* Cloud
+* Cloud Firestore
 
 Flutter Firebase 
 ```
