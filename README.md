@@ -6,7 +6,7 @@
 
 * Supports login, log out, chating, file sharing, image sharing, update user profile. 
 
-<img src="https://github.com/rohankumara/Postman/blob/main/Assets/Demo.gif" height="550px" width="350px">
+<img src="https://github.com/rohankumara/Postman/blob/main/Assets/Demo.gif" height="550px" width="300px">
 
 
 
